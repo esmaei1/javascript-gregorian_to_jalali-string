@@ -1,1 +1,1 @@
-gregorian_to_jalali
+g_string_to_j_string
